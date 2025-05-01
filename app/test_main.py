@@ -11,7 +11,7 @@ from app.main import outdated_products
         (
             [
                 {
-                    "name": "salmon",
+                    "name": "bread",
                     "expiration_date": datetime.date(2025, 4, 30),
                     "price": 600
                 },
@@ -26,7 +26,7 @@ from app.main import outdated_products
                     "price": 160
                 }
             ],
-            ["salmon"],
+            ["bread"],
         )
     ]
 )
